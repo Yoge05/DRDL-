@@ -1,10 +1,10 @@
-Deep-Learning-Assignment
+| Field            | Details                                  |
+| ---------------- | ---------------------------------------- |
+|   Name           | Yogeshwaran P                            |
+|   USN            | 1CD22AI063                               |
+|   Subject        | Deep Learning and Reinforcement Learning |
+|  Subject Code    | BAI701                                   |
 
-
-Name: Yogeshwaran P
-USN: 1CD22AI063
-Subject: Deep Learning and Reinforcement Learning
-Subject Code: BAI701
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1️⃣ AlexNet.py — CNN Image Classification
 🔹 Original Code
